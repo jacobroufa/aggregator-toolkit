@@ -1,4 +1,4 @@
-# Aggregator Toolkit
+# Documenters Aggregator Toolkit
 
 The Documenters Program is one of three City Bureau programs designed to engage the public in meaningful, informed discussions around critical issues through journalism and civic engagement.
 
